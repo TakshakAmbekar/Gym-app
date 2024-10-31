@@ -10,3 +10,8 @@ Currently, two official plugins are available:
 =======
 # Gym-app
 >>>>>>> 819c66a9bc2ae02257e8223ddcdbe4552ec74a15
+
+Steps to start:
+npm install
+npm audit fix (if warned)
+npm run dev
